@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\FirstRecurrenceString\FirstRecurrenceString\bin\Debug\FirstRecurrenceString.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\FirstRecurrenceString\FirstRecurrenceString\bin\Debug\FirstRecurrenceString.exe
+c:\users\admin\documents\visual studio 2013\Projects\FirstRecurrenceString\FirstRecurrenceString\bin\Debug\FirstRecurrenceString.pdb
+c:\users\admin\documents\visual studio 2013\Projects\FirstRecurrenceString\FirstRecurrenceString\obj\Debug\FirstRecurrenceString.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\FirstRecurrenceString\FirstRecurrenceString\obj\Debug\FirstRecurrenceString.exe
+c:\users\admin\documents\visual studio 2013\Projects\FirstRecurrenceString\FirstRecurrenceString\obj\Debug\FirstRecurrenceString.pdb

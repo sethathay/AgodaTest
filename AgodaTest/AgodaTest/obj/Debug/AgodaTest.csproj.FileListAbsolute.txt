@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\AgodaTest\AgodaTest\bin\Debug\AgodaTest.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\AgodaTest\AgodaTest\bin\Debug\AgodaTest.exe
+c:\users\admin\documents\visual studio 2013\Projects\AgodaTest\AgodaTest\bin\Debug\AgodaTest.pdb
+c:\users\admin\documents\visual studio 2013\Projects\AgodaTest\AgodaTest\obj\Debug\AgodaTest.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\AgodaTest\AgodaTest\obj\Debug\AgodaTest.exe
+c:\users\admin\documents\visual studio 2013\Projects\AgodaTest\AgodaTest\obj\Debug\AgodaTest.pdb
